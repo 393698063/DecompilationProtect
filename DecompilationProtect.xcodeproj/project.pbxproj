@@ -7,10 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C1991DE230650A40005B1BD /* QGDecompileProtect.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C1991DC230650A30005B1BD /* QGDecompileProtect.h */; };
+		9C1991DF230650A40005B1BD /* QGDecompileProtect.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C1991DD230650A30005B1BD /* QGDecompileProtect.m */; };
 		9CB6F1F322F1392B00EE675E /* DecompilationProtect.h in Headers */ = {isa = PBXBuildFile; fileRef = 9CB6F1F122F1392B00EE675E /* DecompilationProtect.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C1991DC230650A30005B1BD /* QGDecompileProtect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QGDecompileProtect.h; sourceTree = "<group>"; };
+		9C1991DD230650A30005B1BD /* QGDecompileProtect.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QGDecompileProtect.m; sourceTree = "<group>"; };
 		9CB6F1EE22F1392B00EE675E /* DecompilationProtect.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DecompilationProtect.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CB6F1F122F1392B00EE675E /* DecompilationProtect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DecompilationProtect.h; sourceTree = "<group>"; };
 		9CB6F1F222F1392B00EE675E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -47,6 +51,8 @@
 			isa = PBXGroup;
 			children = (
 				9CB6F1F122F1392B00EE675E /* DecompilationProtect.h */,
+				9C1991DC230650A30005B1BD /* QGDecompileProtect.h */,
+				9C1991DD230650A30005B1BD /* QGDecompileProtect.m */,
 				9CB6F1F222F1392B00EE675E /* Info.plist */,
 			);
 			path = DecompilationProtect;
@@ -60,6 +66,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9CB6F1F322F1392B00EE675E /* DecompilationProtect.h in Headers */,
+				9C1991DE230650A40005B1BD /* QGDecompileProtect.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C1991DF230650A40005B1BD /* QGDecompileProtect.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
