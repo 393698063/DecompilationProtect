@@ -2,7 +2,7 @@
 //  QGDecompileProtect.h
 //  DecompilationProtect
 //
-//  Created by Qiao,Gang(RM) on 2019/8/16.
+//  Created by   on 2019/8/16.
 //  Copyright © 2019年 jorgon. All rights reserved.
 //
 

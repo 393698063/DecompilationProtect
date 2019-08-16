@@ -2,7 +2,7 @@
 //  DecompilationProtect.h
 //  DecompilationProtect
 //
-//  Created by Qiao,Gang(RM) on 2019/7/31.
+//  Created by   on 2019/7/31.
 //  Copyright © 2019年 jorgon. All rights reserved.
 //
 
